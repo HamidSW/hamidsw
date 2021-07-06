@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">¡Hola! mi nombre es Hamid👋</h1>
 
-<!--
-**HamidSW/hamidsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Mi nombre es Hamid tengo 21 años, actualmente soy estudiante en la carrera Ingeniería en Sistemas.</p>
 
-Here are some ideas to get you started:
+<p align="center"><img src="./main.gif"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📈 Estadísticas de GitHub </h2>
+
+|||
+|---|---|
+|![Hamid Cuevas Escalera's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidsw&show_icons=true&theme=default)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidsw&layout=compact)](https://github.com/hamidsw/github-readme-stats) 
+
+<h2>🔧 Tecnologías y herramientas</h2>
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+
+
